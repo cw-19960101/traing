@@ -1,0 +1,7 @@
+public String getName() 获取文件名
+public boolean canRead() 判断文件是否可读
+public boolean canWtrite() 判断文件是否可写
+public boolean exits() 判断文件是否存在
+public long length() 获取文件长度
+public String getAbsolutePath() 获取文件的绝对路径
+public 
